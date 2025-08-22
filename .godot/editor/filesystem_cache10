@@ -1,6 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1755445555
+::res://::1755820222
 icon.svg::CompressedTexture2D/CompressedTexture2D::8857301292648578158::1755213532::1755213539::1::::<><><>0<>0<>d0068972add2d163504289e01ed0ad61<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Actors/::1755451866
+player.tscn::PackedScene::8477038356759421662::1755451866::0::1::::<><><>0<>0<><>::uid://ccvbv24dis18t::::res://Scripts/player.gd<>uid://doslblg3ksdbt::::res://Assets/Sprite Pack 2/2 - Mr. Mochi/Idle (32 x 32).png
 ::res://Assets/::1755213823
 ::res://Assets/Mini FX, Items & UI/::1755213807
 LICENSE.txt::TextFile/TextFile::-1::1593868726::0::1::::<><><>0<>0<><>::
@@ -50,7 +52,7 @@ _Complete_static_BG_(288 x 208).png::CompressedTexture2D/CompressedTexture2D::21
 3 - Cloud_cover_1.png::CompressedTexture2D/CompressedTexture2D::6752234633522758686::1594664922::1755214418::1::::<><><>0<>0<>9a51cc41834d3fafdb22c29e0da3234b<>res://.godot/imported/3 - Cloud_cover_1.png-1fdcfde708ad11e51d15256e446deb78.ctex::
 4 - Cloud_cover_2.png::CompressedTexture2D/CompressedTexture2D::7947872221759231876::1594664916::1755214418::1::::<><><>0<>0<>03407d1f0fba187013b303786a834143<>res://.godot/imported/4 - Cloud_cover_2.png-996f2a5942473033bb2184e022c70f1b.ctex::
 5 - Sky_color.png::CompressedTexture2D/CompressedTexture2D::3729267007033995666::1594664886::1755214418::1::::<><><>0<>0<>a6cbc519d5415cd39e8c4cc6686385cc<>res://.godot/imported/5 - Sky_color.png-91da31359bd6b5eac2af1fcbc603d02c.ctex::
-Grassland_entities (16 x 16).png::CompressedTexture2D::1963022368969188824::1594733800::1755445555::1::::<><><>0<>0<>5a4b1850330408209ad53a2c086add14<>res://.godot/imported/Grassland_entities (16 x 16).png-e192d0e867bcae2148123a8c6cd45db9.ctex::
+Grassland_entities (16 x 16).png::CompressedTexture2D/CompressedTexture2D::1963022368969188824::1594733800::1755445555::1::::<><><>0<>0<>5a4b1850330408209ad53a2c086add14<>res://.godot/imported/Grassland_entities (16 x 16).png-e192d0e867bcae2148123a8c6cd45db9.ctex::
 ::res://Assets/Seasonal Tilesets/2 - Autumn Forest/::1755214418
 Autumn_entities (16 x 16).png::CompressedTexture2D/CompressedTexture2D::4112112984813159480::1594734662::1755214418::1::::<><><>0<>0<>0da4d77b3b2c09440c9db79d75e530a9<>res://.godot/imported/Autumn_entities (16 x 16).png-73c6d3c9836dbdae52bd7c3d6545c8b8.ctex::
 Terrain (16 x 16).png::CompressedTexture2D/CompressedTexture2D::2396101621771844755::1594734254::1755214418::1::::<><><>0<>0<>2abcb2070a50e4100d767e8c79073ab5<>res://.godot/imported/Terrain (16 x 16).png-e07931402186e45e6f246467394c494a.ctex::
@@ -135,7 +137,7 @@ Claw_Animations (16 x 16).png::CompressedTexture2D/CompressedTexture2D::13372156
 Hurt (32 x 32).png::CompressedTexture2D/CompressedTexture2D::4586653852036888240::1592409916::1755214418::1::::<><><>0<>0<>ff26816122d8c9312ab428ab52497a08<>res://.godot/imported/Hurt (32 x 32).png-9ffa798f9c99aceb84cb7ce590d0bebe.ctex::
 Movement_(Flip_image_back_and_forth) (32 x 32).png::CompressedTexture2D/CompressedTexture2D::5179548672197600139::1592409578::1755214418::1::::<><><>0<>0<>21ab6efed8471b394c29cb5f2e889bb4<>res://.godot/imported/Movement_(Flip_image_back_and_forth) (32 x 32).png-5b457a49e4e92e597a0a6580d2b7559f.ctex::
 Reaching_to_Pinch (32 x 32).png::CompressedTexture2D/CompressedTexture2D::1780369956562762078::1592409764::1755214418::1::::<><><>0<>0<>e2d6f5d1008bffafc0df11e33b47f6ed<>res://.godot/imported/Reaching_to_Pinch (32 x 32).png-777bcee9caad11f80f30efb5de59c5d8.ctex::
-::res://Levels/::1755445555
-world_01.tscn::PackedScene::3237067548214233978::1755445555::0::1::::<><><>0<>0<><>::uid://dr06uvcvwcoml::::res://Assets/Seasonal Tilesets/3 - Tropics/Terrain (16 x 16).png<>uid://doslblg3ksdbt::::res://Assets/Sprite Pack 2/2 - Mr. Mochi/Idle (32 x 32).png<>uid://ccvbv24dis18t::::res://Scripts/player.gd<>uid://275xrrjbsejw::::res://Assets/Seasonal Tilesets/1 - Grassland/Background parts/Grassland_entities (16 x 16).png
+::res://Levels/::1755451866
+world_01.tscn::PackedScene::3237067548214233978::1755451866::0::1::::<><><>0<>0<><>::uid://dr06uvcvwcoml::::res://Assets/Seasonal Tilesets/3 - Tropics/Terrain (16 x 16).png<>uid://275xrrjbsejw::::res://Assets/Seasonal Tilesets/1 - Grassland/Background parts/Grassland_entities (16 x 16).png<>uid://ds1lt3hcuii67::::res://Actors/player.tscn
 ::res://Scripts/::1755215551
 player.gd::GDScript/GDScript::4956670669239809037::1755215551::0::1::::<>CharacterBody2D<><>0<>0<><>::
